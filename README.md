@@ -83,3 +83,9 @@ The analysis provides valuable insights into customer sentiment and loyalty in t
 - **NPS Score**: The calculated NPS score indicates the overall likelihood of customers to recommend the hotel. The trend analysis shows how this score has changed over time.
 - **Repeat Customer Behavior**: The analysis of repeat reviewers highlights their sentiment patterns and the specific aspects they frequently mention with negative sentiment, which is crucial for understanding and addressing the concerns of loyal customers.
 
+## 📊 Power BI Dashboard
+
+Explore the interactive Power BI dashboard below:  
+👉 [Open Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDA0MmNkZTgtMWE5YS00ODUyLWFmM2YtMjE2MTE4NzVkNjIyIiwidCI6IjQxYWI0MmE5LTM4MWItNDhjZi04YTg1LTcyMDQ2NDkyMjk3NiIsImMiOjEwfQ%3D%3D)
+
+
